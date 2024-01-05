@@ -45,6 +45,7 @@ computerDisplay.textContent = `COMPUTER: ${computerChoice}`;
 resultDisplay.textContent = result;
 
 // controlling the flow with terniary and swith statement
+// add the result of the game
 resultDisplay.classList.remove("greenText", "redText");
 switch(result){
     case "YOU WIN!":
