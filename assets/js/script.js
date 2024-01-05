@@ -9,6 +9,7 @@ const computerScoreDisplay = document.getElementById("computerScoreDisplay");
 let playerScore = 0;
 let computerScore = 0;
 
+//create function playGame with one parameter, player's choice
 function playGame(playerChoice) {
     const computerChoice = choices[Math.floor(Math.random() * 5)];
     let result = "";
