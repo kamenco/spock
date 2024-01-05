@@ -1,4 +1,5 @@
 //ROCK PAPER SCISSORS LIZARD SPOCK
+//Add constants for result, player. computer
 const choices = ["rock", "paper", "scissors", "lizard", "spock"];
 const playerDisplay = document.getElementById("playerDisplay");
 const computerDisplay = document.getElementById("computerDisplay");
