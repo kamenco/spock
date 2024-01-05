@@ -13,7 +13,7 @@ let computerScore = 0;
 function playGame(playerChoice) {
     const computerChoice = choices[Math.floor(Math.random() * 5)];
     let result = "";
-// set choice made - randomly
+// set choice made randomly
     if (playerChoice === computerChoice) {
         result = "IT'S A TIE!";
     } else {
@@ -44,7 +44,7 @@ playerDisplay.textContent = `PLAYER: ${playerChoice}`;
 computerDisplay.textContent = `COMPUTER: ${computerChoice}`;
 resultDisplay.textContent = result;
 
-
+// controlling the flow with terniary and swith statement
 resultDisplay.classList.remove("greenText", "redText");
 switch(result){
     case "YOU WIN!":
