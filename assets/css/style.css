@@ -4,7 +4,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/* Add css with display flex, styling*/
 body {
     font-family: Arrial, sans-serif;
     font-weight: bold;
