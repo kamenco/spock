@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--font awesome and google fonts-->
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+    <link href="https://fonts.googleapis.com/css?family=Raleway%7CRighteous" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel = "stylesheet" href = "assets/css/style.css">
+    <title>Scissor - Rock - Paper - Lizard - Spock</title>
+</head>
+<body>
+    <!--Html set with onclick function and result of the game-->
+    <h1>Scissor - Rock - Paper - Lizard - Spock</h1>
+    <div class = "choices">
+        <button onclick = "playGame('rock')">⛰️</button>
+        <button onclick = "playGame('paper')">📜</button>
+        <button onclick = "playGame('scissors')">✂️</button> 
+        <button onclick = "playGame('lizard')">🦎</button> 
+        <button onclick = "playGame('spock')">👳</button> 
+    </div>
+    <!--Displays Rock, Paper or Scissor-->
+    <div id = "playerDisplay">PLAYER:</div>
+    <div id = "computerDisplay">COMPUTER:</div>
+    <div id = "resultDisplay"></div>
+
+    <div class = "scoreDisplay">Player Score:
+        <span id = "playerScoreDisplay">0</span>
+    </div>
+    <div class = "scoreDisplay">Computer Score:
+        <span id = "computerScoreDisplay">0</span>
+    </div>
+    <div style="overflow-x: auto;">
+        
+    <table>
+        <tr>
+          <th colspan = "5" style="width:50%">Game Explanation</th>
+        </tr>
+        <tr>
+          <td>🦎</td>
+          <td>Poisons </td>
+          <td>👳</td>
+          <td> Eats </td>
+          <td>📜</td> 
+        </tr>
+        <tr>
+          <td>✂️</td>
+          <td>Cuts</td>
+          <td> 📜 </td>
+          <td>Decapitates </td>
+          <td>🦎 </td>
+        </tr>
+        <tr>
+            <td>📜</td>
+            <td>Covers</td>
+            <td> ⛰️</td>
+            <td> Disproves</td>
+            <td> 👳</td>
+          </tr>
+          <tr>
+            <td>⛰️</td>
+            <td>Breaks</td>
+            <td> ✂️</td>
+            <td> Crushes</td>
+            <td> 🦎 </td>
+          </tr>
+          <tr>
+            <td>👳</td>
+            <td>Vaporises</td>
+            <td> ⛰️</td>
+            <td> Smashes</td>
+            <td> ✂️ </td>
+          </tr>
+      </table>
+    </div>
+      
+      
+
+
+    <!--✊🤘👊✋📜✂️🦎🪨🪨🪨👳💂‍♂️-->
+    <script src = "assets/js/script.js"></script>
+</body>
+</html>
