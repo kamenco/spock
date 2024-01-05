@@ -42,6 +42,7 @@ h1 {
 .scoreDisplay {
     font-size: 2rem;
 }
+/*Changing the win and loose text by styling*/
 .greenText, #playerScoreDisplay {
     color: hsl(130, 84%, 35%);
 }
