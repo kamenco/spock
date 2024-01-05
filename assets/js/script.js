@@ -13,7 +13,7 @@ let computerScore = 0;
 function playGame(playerChoice) {
     const computerChoice = choices[Math.floor(Math.random() * 5)];
     let result = "";
-
+// set choice made randomly
     if (playerChoice === computerChoice) {
         result = "IT'S A TIE!";
     } else {
