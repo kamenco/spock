@@ -40,6 +40,7 @@ function playGame(playerChoice) {
                 break;
     }
 }
+//updating the text on the screen with textContent variables and backtick syntax
 playerDisplay.textContent = `PLAYER: ${playerChoice}`;
 computerDisplay.textContent = `COMPUTER: ${computerChoice}`;
 resultDisplay.textContent = result;
