@@ -4,16 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--font awesome and google fonts-->
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+    <!--font awesome and google fonts favicons-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+
     <link href="https://fonts.googleapis.com/css?family=Raleway%7CRighteous" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel = "stylesheet" href = "assets/css/style.css">
     <title>Scissor - Rock - Paper - Lizard - Spock</title>
 </head>
 <body>
-    <!--Html set with onclick function and result of the game-->
-    <h1>Scissor - Rock - Paper - Lizard - Spock</h1>
+  
+    <h1> Rock - Paper - Scissor - Lizard - Spock</h1>
     <div class = "choices">
         <button onclick = "playGame('rock')">⛰️</button>
         <button onclick = "playGame('paper')">📜</button>
@@ -25,61 +28,74 @@
     <div id = "playerDisplay">PLAYER:</div>
     <div id = "computerDisplay">COMPUTER:</div>
     <div id = "resultDisplay"></div>
-<!--Styling the resultdisplay and adding the result-->
+
     <div class = "scoreDisplay">Player Score:
         <span id = "playerScoreDisplay">0</span>
     </div>
     <div class = "scoreDisplay">Computer Score:
         <span id = "computerScoreDisplay">0</span>
     </div>
-    <div style="overflow-x: auto;">
-        <!--creating responsive table explaining the game"-->
-    <table>
+  
+      <table style="overflow-x: auto; width:50%;">
         <tr>
-          <th colspan = "5" style="width:50%">Game Explanation</th>
-        </tr>
-        <tr>
-          <td>🦎</td>
+        <th colspan = "3">
+          Game Explanation
+        </th>
+      </tr>
+        <tr class = "gray">
+          <td rowspan = "2" class = "big">🦎</td>
           <td>Poisons </td>
-          <td>👳</td>
+          <td >👳</td>
+          </tr>
+          <tr class = "gray">
           <td> Eats </td>
           <td>📜</td> 
         </tr>
         <tr>
-          <td>✂️</td>
+          <td rowspan = "2" class = "big">⛰️</td>
+          <td>Breaks</td>
+          <td> ✂️</td>
+          </tr>
+          <tr>
+          <td> Crushes</td>
+          <td> 🦎 </td>
+        </tr>
+        <tr class = "gray">
+          <td rowspan = "2" class = "big">✂️</td>
           <td>Cuts</td>
           <td> 📜 </td>
-          <td>Decapitates </td>
-          <td>🦎 </td>
+          </tr>
+          <tr class = "gray">
+          <td class = "gray">Decapitates </td>
+          <td class = "gray">🦎 </td>
         </tr>
         <tr>
-            <td>📜</td>
-            <td>Covers</td>
-            <td> ⛰️</td>
-            <td> Disproves</td>
-            <td> 👳</td>
+          <td rowspan = "2" class = "big">📜</td>
+          <td>Covers</td>
+          <td> ⛰️</td>
           </tr>
           <tr>
-            <td>⛰️</td>
-            <td>Breaks</td>
-            <td> ✂️</td>
-            <td> Crushes</td>
-            <td> 🦎 </td>
+          <td> Disproves</td>
+          <td> 👳</td>
+        </tr>
+        <tr class = "gray">
+          <td rowspan = "2" class = "big">👳</td>
+          <td>Vaporises</td>
+          <td> ⛰️</td>
           </tr>
-          <tr>
-            <td>👳</td>
-            <td>Vaporises</td>
-            <td> ⛰️</td>
-            <td> Smashes</td>
-            <td> ✂️ </td>
-          </tr>
+          <tr class = "gray">
+          <td> Smashes</td>
+          <td> ✂️ </td>
+        </tr>
       </table>
+    <div id = "music">
+      <audio src = "assets/sounds/cucaracha.mp3" id = "cucaracha"></audio>
+      <audio src = "assets/sounds/bulerias.mp3" id = "bulerias"></audio>
+      <audio src = "assets/sounds/skini.mp3" id = "skini"></audio>
+      <audio src = "assets/sounds/help.mp3" id = "help"></audio>
+      <div id = "buttons"><h2>Home Made Music</h2></div>
     </div>
-      
-      
-
-
-    <!--✊🤘👊✋📜✂️🦎🪨🪨🪨👳💂‍♂️-->
     <script src = "assets/js/script.js"></script>
+    <script src = "assets/js/app.js"></script>
 </body>
 </html>
