@@ -1,6 +1,6 @@
 // create array with songs
 const songs = ['bulerias', 'skini', 'cucaracha', 'help'];
-//loop through array of songs
+//loop through array of songs display the class list
 songs.forEach((song) =>{
     const btn = document.createElement('button');
     btn.classList.add('btn');
