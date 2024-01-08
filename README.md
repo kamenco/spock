@@ -35,6 +35,8 @@ Image for the music block.
 
 ![The Screenshot of the music block!](/assets/screen_three.pdf "Music block")
 
+<img src ="assets/image_three.png">
+
 There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
 Frameworks and libraries have not been used.
