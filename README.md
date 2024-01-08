@@ -42,5 +42,3 @@ Google font were used Roboto. Git was used in the terminal to commit to Git.
 No images were used from other sources, the music is made by the developer.
 
 This side is used with the help of codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React.
-
-
