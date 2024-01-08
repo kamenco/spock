@@ -23,8 +23,6 @@ Image for the game.
 
 ![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
 
-
-
 Image for the table explaning the game rule
 
 ![The table!](assets/proba.png "The table")
@@ -32,8 +30,6 @@ Image for the table explaning the game rule
 Image for the music block.
 
 ![The music block!](assets/image_three.png "The music block")
-
-![The San Juan Mountains are beautiful!](assets/image_three.png "San Juan Mountains")
 
 There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
@@ -44,7 +40,6 @@ Hover css was used in the game section onclicking the icon, and also onclicking 
 Google font were used Roboto. Git was used in the terminal to commit to Git.
 
 No images were used from other sources, the music is made by the developer.
-
 
 This side is used with the help of codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React.
 
