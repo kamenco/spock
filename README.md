@@ -25,7 +25,7 @@ Image for the game.
 
 Image for the table explaning the game rule
 
-![The table!](assets/proba.png "The table")
+![The table!](assets/image.png "The table")
 
 Image for the music block.
 
