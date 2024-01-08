@@ -27,11 +27,11 @@ Image for the game.
 
 Image for the table explaning the game rule
 
-<img src ="assets/proba.png">
+![The game!](assets/proba.png "The game")
 
 Image for the music block.
 
-<img src ="assets/image_three.png">
+![The San Juan Mountains are beautiful!](assets/image_three.png "San Juan Mountains")
 
 ![The San Juan Mountains are beautiful!](assets/image_three.png "San Juan Mountains")
 
