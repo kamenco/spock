@@ -21,17 +21,19 @@ for Sound Artists" by William Tutner.
 
 Image for the game.
 
-![The Screenshot of the site!](/assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+![The Screenshot of the site!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+
+<img src = "/assets/screen_one.png">
 
 Image for the table explaning the game rules.
 
-![The Screenshot of the site!](/assets/screen_two.pdf "The table")
+![The Screenshot of the site!](assets/screen_two.pdf "The table")
 
 Image for the music block.
 
 ![The Screenshot of the music block!](/assets/screen_two.pdf "Music block")
 
-There were no bug found during the development.
+There were no bug found during the development. The codes were tested on www.w3
 
 Frameworks and libraries have not been used.
 
@@ -40,6 +42,7 @@ Hover css was used in the game section onclicking the icon, and also onclicking 
 Google font were used Roboto. Git was used in the terminal to commit to Git.
 
 No images were used from other sources, the music is made by the developer.
+
 
 This side is used with the help of codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React.
 
