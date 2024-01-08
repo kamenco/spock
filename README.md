@@ -33,6 +33,8 @@ Image for the music block.
 
 <img src ="assets/image_three.png">
 
+![The San Juan Mountains are beautiful!](assets/image_three.png "San Juan Mountains")
+
 There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
 Frameworks and libraries have not been used.
