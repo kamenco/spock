@@ -134,7 +134,7 @@
     @media (max-width: 420px){
       table {
           position:relative;
-          margin-left: 180px;
+          margin-left: 150px;
        }
        #music {
         height: 100vh;

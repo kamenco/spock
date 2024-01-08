@@ -23,7 +23,7 @@ Image for the game.
 
 ![The Screenshot of the site!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
 
-<img src = "/assets/screen_one.png">
+
 
 Image for the table explaning the game rules.
 
@@ -31,9 +31,9 @@ Image for the table explaning the game rules.
 
 Image for the music block.
 
-![The Screenshot of the music block!](/assets/screen_two.pdf "Music block")
+![The Screenshot of the music block!](/assets/screen_three.pdf "Music block")
 
-There were no bug found during the development. The codes were tested on www.w3
+There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
 Frameworks and libraries have not been used.
 
