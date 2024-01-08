@@ -21,17 +21,17 @@ for Sound Artists" by William Tutner.
 
 Image for the game.
 
-![The Screenshot of the site!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
 
 
 
 Image for the table explaning the game rule
 
-![The game!](assets/proba.png "The game")
+![The table!](assets/proba.png "The table")
 
 Image for the music block.
 
-![The San Juan Mountains are beautiful!](assets/image_three.png "San Juan Mountains")
+![The music block!](assets/image_three.png "The music block")
 
 ![The San Juan Mountains are beautiful!](assets/image_three.png "San Juan Mountains")
 
