@@ -29,6 +29,8 @@ Image for the table explaning the game rules.
 
 ![The Screenshot of the site!](assets/screen_two.pdf "The table")
 
+<img src ="assets/screen_two.pdf">
+
 Image for the music block.
 
 ![The Screenshot of the music block!](/assets/screen_three.pdf "Music block")
