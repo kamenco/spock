@@ -25,15 +25,11 @@ Image for the game.
 
 
 
-Image for the table explaning the game rules.
-
-![The Screenshot of the site!](assets/proba.png "The table")
+Image for the table explaning the game rule
 
 <img src ="assets/proba.png">
 
 Image for the music block.
-
-![The Screenshot of the music block!](/assets/screen_three.pdf "Music block")
 
 <img src ="assets/image_three.png">
 
