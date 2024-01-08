@@ -27,7 +27,7 @@ Image for the game.
 
 Image for the table explaning the game rules.
 
-![The Screenshot of the site!](assets/screen_two.pdf "The table")
+![The Screenshot of the site!](assets/proba.png "The table")
 
 <img src ="assets/screen_two.pdf">
 
