@@ -33,6 +33,8 @@ Image for the music block.
 
 There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
+![The performance of the web page on Google chrom!](assets/perform.png "Perform")
+
 Frameworks and libraries have not been used.
 
 Hover css was used in the game section onclicking the icon, and also onclicking the buttons in the music block.
