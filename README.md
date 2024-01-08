@@ -29,7 +29,7 @@ Image for the table explaning the game rules.
 
 ![The Screenshot of the site!](assets/proba.png "The table")
 
-<img src ="assets/screen_two.pdf">
+<img src ="assets/proba.png">
 
 Image for the music block.
 
