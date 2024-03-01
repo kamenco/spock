@@ -1,14 +1,52 @@
 
-# Rock - Paper - Scissor - Lizard - Spock 
+# Rock - Paper - Scissor - Lizard - Spock
+## Welcome to my Rock - Paper - Scissor - Lizard - Spock game!
 
+This is a player versus computer game where, following the rules of the game, the user and computer can score points 
+with the option the player to reset the result to 0.
+
+This game is for someone who wants to play a game that is not difficult and does not require significant mental comittment to win, as it is basically a game of chance. The game is simple enough that it can be played and enjoyed by anyone including young children and even people with mental difficulties like people with Down's syndrome.
+
+The goal of this game is to test my JavaScript abilities and of course to make a fully functional game with good design and contrasting colors. It also has a Music section with Home Made Music, giving option option for music entertainment simultaniously while playing the game.
+
+Please visit my game here:
 https://kamenco.github.io/spock/ 
+
+## Performance of the web page on different devices
+
+![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+
+## Table of Contents
+1. [Wireframe](#wireframe)
+2. [UX Description](#ux-description)
+3. [Technologies used](#technologies-used)
+4. [Website Features](#website-features)
+5. [Features to implement](#other-features-to-implement)
+6. [Testing and Validation](#testing-and-validation)
+7. [Bugs and Issues](#bugs-and-issues)
+8. [Peer Reviews](#peer-reviews)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Final Thoughts](#final-thoughts-for-pp2)
+
+---
+## Wireframe
+
+At the beginning of the game the rough design was created with pen on a paper.
+
+### Game page
+
+There is no difference from the wireframe to the final product as the disign is quite simple. 
+
+
+
+
+
 
 This website is deployed on the github.io
 
-This is project with Rock, Paper, Scissor, Lizard and Spock,
-developped for entertainment. 
 
-It also has a Music section with Home Made Music.
+
 The music and singing is performed by the developer of this site.
 
 Both, the Paper - Scissor - Rock - Lizard - Spock game and
