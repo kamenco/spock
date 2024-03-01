@@ -41,6 +41,16 @@ There is no difference from the wireframe to the final product as the disign is 
 Image of the main page:
 ![The Game!](assets/main_page.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
 
+
+Image for the table explaning the game rules.
+
+![The table!](assets/image.png "The table")
+
+
+Image for the music block.
+
+![The music block!](assets/image_three.png "The music block")
+
 ---
 ## UX Description (User Experience)
 
@@ -66,17 +76,13 @@ The idea for the game was accepted from you tube and I have improved the code by
 The idea for the music block was taken from the book "Java Script
 for Sound Artists" by William Tutner.
 
-Image for the game.
 
 
 
-Image for the table explaning the game rule
 
-![The table!](assets/image.png "The table")
 
-Image for the music block.
 
-![The music block!](assets/image_three.png "The music block")
+
 
 There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
