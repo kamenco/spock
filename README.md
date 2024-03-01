@@ -32,18 +32,27 @@ https://kamenco.github.io/spock/
 ---
 ## Wireframe
 
-At the beginning of the game the rough design was created with pen on a paper.
+At the beginning of the game the rough design was created with pen on a paper with a thought in mind to be displayed across different platforms..
 
 ### Game page
 
 There is no difference from the wireframe to the final product as the disign is quite simple. 
 
+Image of the main page:
+![The Game!](assets/main_page.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+
+---
+## UX Description (User Experience)
+
+For this game, bright and bold colours have been chosen. The design keeps the player's focus and doesn't distract him/her from the game!
+
+I have chosen the similar graphics encircled in a blue background that changes to lightblue when hovered.
+
+The resset button is kept simple and contrasting, the buttons for choosing the music are in pink on grey background, making them also visible enough. The game rules are set in a table without much textual explanation, in bright colors and graphics, making the rules easy to understand, and thus not requireing too much reading. 
+
+The layout is kept pretty simple, right after the images the gamer scrolls down for a look and reference of the game explanation and is ready to start the game. As an additional entertainment he/her can choose some music.
 
 
-
-
-
-This website is deployed on the github.io
 
 
 
@@ -59,7 +68,7 @@ for Sound Artists" by William Tutner.
 
 Image for the game.
 
-![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+
 
 Image for the table explaning the game rule
 
