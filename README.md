@@ -30,6 +30,7 @@ https://kamenco.github.io/spock/
 11. [Final Thoughts](#final-thoughts-for-pp2)
 
 ---
+
 ## Wireframe
 
 At the beginning of the game the rough design was created with pen on a paper with a thought in mind to be displayed across different platforms..
@@ -40,6 +41,18 @@ There is no difference from the wireframe to the final product as the disign is 
 
 Image of the main page:
 ![The Game!](assets/main_page.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
+
+---
+
+## UX Description (User Experience)
+
+For this game, bright and bold colours have been chosen. The design keeps the player's focus and doesn't distract him/her from the game!
+
+I have chosen the similar graphics encircled in a blue background that changes to lightblue when hovered.
+
+The resset button is kept simple and contrasting, the buttons for choosing the music are in pink on grey background, making them also visible enough. The game rules are set in a table without much textual explanation, in bright colors and graphics, making the rules easy to understand, and thus not requireing too much reading. 
+
+The layout is kept pretty simple, right after the images the gamer scrolls down for a look and reference of the game explanation and is ready to start the game. As an additional entertainment he/her can choose some music.
 
 
 Image for the table explaning the game rules.
@@ -52,18 +65,26 @@ Image for the music block.
 ![The music block!](assets/image_three.png "The music block")
 
 ---
-## UX Description (User Experience)
 
-For this game, bright and bold colours have been chosen. The design keeps the player's focus and doesn't distract him/her from the game!
+## Technologies used
 
-I have chosen the similar graphics encircled in a blue background that changes to lightblue when hovered.
+- HTML5 - Used to structure my website. There is only one page of this website as this is a simplified version of this game. Only one semantic element has been used <main> to improve the SEO optimization. Responsive design was implemented by the code in the head with metatag defining the control of page's dimensions and scaling.
+- CSS3 -Used to style my website.  Responsive web design is used to resize, and shrink, the content to make it look good on any screen.  Box sizing border box was used to  padding and border of element's total width and height. Media query with breakpoint of 420px was used for the responsiveness of the page.
+- JS - Used to provide functionality to my website.
+- Github - The cloud based service for hosting repositories for over 73 million developers
+- Git - Used to add, commit and push my changes to the server.
+- Favicon.io - Used to source my favicon icons for my website.
+- Google Fonts - Used to source different fonts in my css file.
 
-The resset button is kept simple and contrasting, the buttons for choosing the music are in pink on grey background, making them also visible enough. The game rules are set in a table without much textual explanation, in bright colors and graphics, making the rules easy to understand, and thus not requireing too much reading. 
+### Start-Page
 
-The layout is kept pretty simple, right after the images the gamer scrolls down for a look and reference of the game explanation and is ready to start the game. As an additional entertainment he/her can choose some music.
+There is only one page for this website, as it is a simplified version of the game.
+Ht
+An essential task for this website was to have to responsive displays that change upon clicking a button/div when the player is ready to play. 
 
+By hiding the main page through surrounding it in a div in my html file, I was able to make this start page show by default and then hide that page when the player clicks 'start'. 
 
-
+The Start-Page briefly describes the rules of the game of Rock, Paper, Scissors and tells the user how the scoring system works. An image provides visual feedback to the user as well to help cement the rules in their mind. When they feel they understand the rules of the game, then can enter a name/username and click 'start'. If they feel they need to go back to the start page to check over the rules or change their username, they can do so by clicking the title on the game page.
 
 
 The music and singing is performed by the developer of this site.
