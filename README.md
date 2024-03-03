@@ -33,9 +33,7 @@ https://kamenco.github.io/spock/
 
 ## [Wireframe](#wireframe)
 
-At the beginning of the game the rough design was created with pen on a paper with a thought in mind to be displayed across different platforms..
-
-### Game page
+At the beginning of the game the rough design was created with pen on a paper with a thought in mind to be displayed across different platforms.
 
 There is no difference from the wireframe to the final product as the disign is quite simple. 
 
@@ -54,8 +52,10 @@ The resset button is kept simple and contrasting, the buttons for choosing the m
 
 The layout is kept pretty simple, right after the images the gamer scrolls down for a look and reference of the game explanation and is ready to start the game. As an additional entertainment he/her can choose some music.
 
+At the very bottom of the page is a  reset button, that has an onclick event listener and resets all the scores playerScore to 0 and computerScore to 0, result and player Computer to blank starting the game over again from the beginning. 
 
 Image for the table explaning the game rules.
+The table explanation briefly depicts the rules of the game of Rock, Paper, Scissors, Lizard and Spock and clarifies how the scoring works. The image help's to cement the rules in the player's mind. When they feel they understand the rules of the game, they will start playing more confidently.
 
 ![The table!](assets/image.png "The table")
 
@@ -77,13 +77,26 @@ Image for the music block.
 - Google Fonts - Used to source different fonts in my css file.
 - CoralDraw was used to illustrate this page with the flow chart's logic.
 
-The table explanatione briefly describes the rules of the game of Rock, Paper, Scissors and tells the user how the scoring works. The image help's to cement the rules in the player's mind. When they feel they understand the rules of the game, they will start playing more confidently.
-
 Flow chart to work out the logic path the program needs to take.
 
 ![The flow chart!](assets/play.png "The illustration")
 
+---
+## [Website Features](#website-features)
 
+This is a simplified game Scissor, Rock, Paper, Lizard, Spock player against computer. Player chooses manually the picture by clicking on it and the computer chooses randomely.  The chosen characters are displayed in words. Then the win and loose is displayed in green and red respetfully, and player's score computer's score are displayed and incremented by one respetfully. 
+
+As far as the homemade music block is concerned the player can choose to listen songs while playing.
+
+---
+
+## [Features to implement](#other-features-to-implement)
+
+Given more time to invest in the project, I would like to implement some more features: 
+
+- A count-up counter. On reaching a certain number, for example 10, one round will be won. The round counter will be added to count the won and lost rounds. Then all variables will be reset to 0 or blank.
+- 
+- Some basic animation to the pictures can be added to add some nice visual effects to the project. Perhaps an the picture can enlarge slightly for the winning player and decrease in size slightly for the losing computer and vice-versa. 
 
 The music and singing is performed by the developer of this site.
 
