@@ -69,13 +69,18 @@ Image for the music block.
 ## [Technologies used](#technologies-used)
 
 - HTML5 - Used to structure my website. There is only one page of this website as this is a simplified version of this game. Only one semantic element has been used <main> to improve the SEO optimization. Responsive design was implemented by the code in the head with metatag defining the control of page's dimensions and scaling.
-- CSS3 -Used to style my website.  Responsive web design is used to resize, and shrink, the content to make it look good on any screen.  Box sizing border box was used to  padding and border of element's total width and height. Media query with breakpoint of 420px was used for the responsiveness of the page.
-- JS - Used to provide functionality to my website.
+- CSS3 -Used to style my website.  Responsive web design is used to resize, and shrink, the content to make it look good on any screen.  Box sizing border box was used to  padding and border of element's total width and height. Media query with breakpoint of 420px was used for the responsiveness of the page. Hover css was used in the game section onclicking the icon, and also onclicking the buttons in the music block.
+- JavaScript. Used to provide functionality to my website. Frameworks and libraries have not been used. JavaScriptfunction playGame() uses Math function for random choice from constant choices. After that the function checks if the game is a tie, and after that with else and switch statements checks case by case playerChoice with the computerChoice. Increments playerScore and computerChoice by 1. Using classList on resultDisplay changes the color of YOU WIN! to green and YOU LOOSE! to red. The reset() function resets the playerScoreDisplay and computerScoreDisplay to 0 using innerHTML. Resets resultDisplay to blank also by innerHTML and playerDisplay and computerDisplay using textContent to reset the strings.
 - Github - The cloud based service for hosting repositories for over 73 million developers
 - Git - Used to add, commit and push my changes to the server.
 - Favicon.io - Used to source my favicon icons for my website.
-- Google Fonts - Used to source different fonts in my css file.
+- Google Fonts - Used to source different fonts in my css file. Google font were used Roboto.
 - CoralDraw was used to illustrate this page with the flow chart's logic.
+
+
+
+
+ 
 
 Flow chart to work out the logic path the program needs to take.
 
@@ -120,6 +125,12 @@ I can confirm that the website passed with great scores. See report below:
 
 ![The performance of the web page on Google chrom!](assets/perform.png "Perform")
 
+---
+## [Bugs and Issues](#bugs-and-issues)
+
+There were no bugs found on this web page.
+
+
 
 The music and singing is performed by the developer of this site.
 
@@ -141,11 +152,6 @@ There were no bug found during the development. The codes were tested on https:/
 
 
 
-Frameworks and libraries have not been used.
-
-Hover css was used in the game section onclicking the icon, and also onclicking the buttons in the music block.
-
-Google font were used Roboto. Git was used in the terminal to commit to Git.
 
 No images were used from other sources, the music is made by the developer.
 
