@@ -95,7 +95,7 @@ As far as the homemade music block is concerned the player can choose to listen 
 Given more time to invest in the project, I would like to implement some more features: 
 
 - A count-up counter. On reaching a certain number, for example 10, one round will be won. The round counter will be added to count the won and lost rounds. Then all variables will be reset to 0 or blank.
-- 
+  
 - Some basic animation to the pictures can be added to add some nice visual effects to the project. Perhaps an the picture can enlarge slightly for the winning player and decrease in size slightly for the losing computer and vice-versa. 
 
 The music and singing is performed by the developer of this site.
