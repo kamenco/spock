@@ -97,6 +97,8 @@ Given more time to invest in the project, I would like to implement some more fe
 - A count-up counter. On reaching a certain number, for example 10, one round will be won. The round counter will be added to count the won and lost rounds. Then all variables will be reset to 0 or blank.
   
 - Some basic animation to the pictures can be added to add some nice visual effects to the project. Perhaps an the picture can enlarge slightly for the winning player and decrease in size slightly for the losing computer and vice-versa.
+
+ ---
  
  ## [Testing and Validation](#testing-and-validation)
 
@@ -107,6 +109,16 @@ Given more time to invest in the project, I would like to implement some more fe
 
 CSS checking.
 ![The performance of the web page on w3 validator!](assets/css_check.png "Perform")
+
+Thejavascript files have been checked on www.jshint.com. There are no issues.
+
+The accessibility testing.
+For testing accesibility and performance, I used Lighthouse in Dev tools. 
+Lighthouse runs an audit of your website and feeds back a set of scores for accessibility, performance and best practices among others. 
+
+I can confirm that the website passed with great scores. See report below:
+
+![The performance of the web page on Google chrom!](assets/perform.png "Perform")
 
 
 The music and singing is performed by the developer of this site.
@@ -127,7 +139,7 @@ for Sound Artists" by William Tutner.
 
 There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
 
-![The performance of the web page on Google chrom!](assets/perform.png "Perform")
+
 
 Frameworks and libraries have not been used.
 
