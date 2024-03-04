@@ -24,7 +24,7 @@ https://kamenco.github.io/spock/
 5. [Features to implement](#other-features-to-implement)
 6. [Testing and Validation](#testing-and-validation)
 7. [Bugs and Issues](#bugs-and-issues)
-8. [Peer Reviews](#peer-reviews)
+8. [404.html](#404-html)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Final Thoughts](#final-thoughts-for-pp2)
@@ -133,6 +133,13 @@ There is an issue with Iphone 13. The music block is not fully visible. vh for t
 ![The issue with iPhone 13!](assets/bug_phone.png "An issue.")
 
 ---
+
+## [404.html](#404-html)
+
+404.html page was created which shows that the browser connects to the server but can not find the page.
+ - This happens rarely but sometimes the server malfunctions.
+ - This happens when the URL is not valid anymore and the file is missing.
+ - The page opening is triggerd by the file ".htaccess" located in the root directory. This files serves the purpose of passing on instructions to the server to open the page with code line ErrorDocument 404 /404.html
 
 ## [Deployment](#deployment)
 
