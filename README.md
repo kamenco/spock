@@ -16,7 +16,7 @@ https://kamenco.github.io/spock/
 
 ![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
 
-## Table of Content (#table-content)
+## Table of Content 
 1. [Wireframe](#wireframe)
 2. [UX Description](#ux-description)
 3. [Technologies used](#technologies-used)
@@ -24,7 +24,7 @@ https://kamenco.github.io/spock/
 5. [Features to implement](#other-features-to-implement)
 6. [Testing and Validation](#testing-and-validation)
 7. [Bugs and Issues](#bugs-and-issues)
-8. [404 page](#404-html)
+8. [404 page](#404-page)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 
@@ -133,7 +133,7 @@ There is an issue with Iphone 13. The music block is not fully visible. vh for t
 
 ---
 
-## [404.html](#404-html)
+## [404.html](#404-page)
 
 404.html page was created and shows that the browser connects to the server but can not find the page.
  - This happens rarely but sometimes the server malfunctions.
@@ -164,4 +164,4 @@ for Sound Artists" by William Tutner.
 
 This side is used with the help of Codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React, thanks to Mr. Medale and Marco for the technical support.
 
-[Back to top](#table-content)
+[Back to top](#wireframe)
