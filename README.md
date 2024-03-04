@@ -21,10 +21,10 @@ https://kamenco.github.io/spock/
 2. [UX Description](#ux-description)
 3. [Technologies used](#technologies-used)
 4. [Website Features](#website-features)
-5. [Features to implement](#other-features-to-implement)
+5. [Features to implement](#other-features)
 6. [Testing and Validation](#testing-and-validation)
 7. [Bugs and Issues](#bugs-and-issues)
-8. [404 page](#404-page)
+8. [404 page](#notfound-page)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 
@@ -90,7 +90,7 @@ As far as the homemade music block is concerned the player can choose to listen 
 
 ---
 
-## [Features to implement](#other-features-to-implement)
+## [Features to implement](#other-features)
 
 Given more time to invest in the project, I would like to implement some more features: 
 
@@ -133,7 +133,7 @@ There is an issue with Iphone 13. The music block is not fully visible. vh for t
 
 ---
 
-## [404.html](#404-page)
+## [404.html](#notfound-page)
 
 404.html page was created and shows that the browser connects to the server but can not find the page.
  - This happens rarely but sometimes the server malfunctions.
