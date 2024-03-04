@@ -128,8 +128,9 @@ I can confirm that the website passed with great scores. See report below:
 ---
 ## [Bugs and Issues](#bugs-and-issues)
 
-There were no bugs found on this web page.
+There is an issue with Iphone 13. The music block is not fully visible.
 
+![The issue with iPhone 13!](assets/perform.png "Perform")
 
 
 The music and singing is performed by the developer of this site.
