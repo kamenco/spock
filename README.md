@@ -16,7 +16,7 @@ https://kamenco.github.io/spock/
 
 ![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
 
-## Table of Contents
+## Table of Content(#table-of-contents)
 1. [Wireframe](#wireframe)
 2. [UX Description](#ux-description)
 3. [Technologies used](#technologies-used)
@@ -64,6 +64,7 @@ Image for the music block.
 
 ![The music block!](assets/image_three.png "The music block")
 
+[Back to Table of Contents](#table-of-contents)
 ---
 
 ## [Technologies used](#technologies-used)
