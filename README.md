@@ -141,6 +141,8 @@ There is an issue with Iphone 13. The music block is not fully visible. vh for t
  - This happens when the URL is not valid anymore and the file is missing.
  - The page opening is triggerd by the file ".htaccess" located in the root directory. This files serves the purpose of passing on instructions to the server to open the page with code line ErrorDocument 404 /404.html
 
+ - ---
+
 ## [Deployment](#deployment)
 
 + The site was deployed to GitHub pages. The steps to deploy are as follows.
@@ -161,4 +163,4 @@ The idea for the game was accepted from you tube and I have improved the code by
 The idea for the music block was taken from the book "Java Script
 for Sound Artists" by William Tutner.
 
-This side is used with the help of codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React, thanks to Mr. Medale and Marco for the technical support.
+This side is used with the help of Codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React, thanks to Mr. Medale and Marco for the technical support.
