@@ -113,7 +113,7 @@ CSS checking.
 
 The page is tested on different browsers Chrome, Firefox, Safari, Opera. The page is responsive and contains all the functions accross differenr screens and sizes.
 
-Thejavascript files have been checked on www.jshint.com. There are no issues.
+The javascript files have been checked on www.jshint.com. There are no issues. Probably have to improve the identation so that the code to look better.
 
 ![The performance of the web page on jshint !](assets/jshint.png "Perform")
 
@@ -154,19 +154,4 @@ The idea for the game was accepted from you tube and I have improved the code by
 The idea for the music block was taken from the book "Java Script
 for Sound Artists" by William Tutner.
 
-
-
-
-
-
-
-
-
-There were no bug found during the development. The codes were tested on https://validator.w3.org/ for html and and css on https://jshint.com/.
-
-
-
-
-No images were used from other sources, the music is made by the developer.
-
-This side is used with the help of codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React.
+This side is used with the help of codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React, thanks to Mr. Medale and Marco for the technical support.
