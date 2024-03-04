@@ -76,12 +76,7 @@ Image for the music block.
 - Favicon.io - Used to source my favicon icons for my website.
 - Google Fonts - Used to source different fonts in my css file. Google font were used Roboto.
 - CoralDraw was used to illustrate this page with the flow chart's logic.
-
-
-
-
  
-
 Flow chart to work out the logic path the program needs to take.
 
 ![The flow chart!](assets/play.png "The illustration")
@@ -130,7 +125,7 @@ I can confirm that the website passed with great scores. See report below:
 
 There is an issue with Iphone 13. The music block is not fully visible.
 
-![The issue with iPhone 13!](assets/perform.png "Perform")
+![The issue with iPhone 13!](assets/bug_phone.png "An issue.")
 
 
 The music and singing is performed by the developer of this site.
