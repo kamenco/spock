@@ -11,7 +11,7 @@ The goal of this game is to test my JavaScript abilities and of course to make a
 
 Please visit my game here:
 https://kamenco.github.io/spock/ 
-
+[link](https://kamenco.github.io/spock/){:target="_blank"}
 ## Performance of the web page on different devices
 
 ![The Game!](assets/screen_one.png "Screenshop of the game Rock, Scissors, Paper, Lizard and Spock")
