@@ -114,11 +114,11 @@ Given more time to invest in the project, I would like to implement some more fe
 
  The HTML and CSS coding was tested on https://validator.w3.org
 
- HTML checking.
+ HTML validation.
  ---
 ![The performance of the web page on w3 validator!](assets/html_check.png "Perform")
 
-CSS checking.
+CSS validation.
 ---
 ![The performance of the web page on w3 validator!](assets/css_check.png "Perform")
 
@@ -126,7 +126,7 @@ The page is tested on different browsers Chrome, Firefox, Safari, Opera. The pag
 
 The javascript files have been checked on www.jshint.com. There are no issues. Probably have to improve the identation so that the code to look better.
 
-CSS checking.
+**JavaScript validation.**
 
 ---
 
