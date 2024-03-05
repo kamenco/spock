@@ -126,10 +126,15 @@ The page is tested on different browsers Chrome, Firefox, Safari, Opera. The pag
 
 The javascript files have been checked on www.jshint.com. There are no issues. Probably have to improve the identation so that the code to look better.
 
-![The performance of the web page on jshint !](assets/jshint.png "Perform")
+CSS checking.
 
 ---
-![The performance of the web page on jshint !](assets/jshint_2.png "Perform")
+
+![The performance of the web page on jshint for Javascript on the game!](assets/jshint.png "Perform")
+
+---
+
+![The performance of the web page on jshint JavaScript for the music section. !](assets/jshint_2.png "Perform")
 
 The accessibility testing.
 For testing accesibility and performance, I used Lighthouse in Dev tools. 
