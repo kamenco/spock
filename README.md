@@ -75,7 +75,9 @@ Image for the music block.
 - Favicon.io - Used to source my favicon icons for my website.
 - Google Fonts - Used to source different fonts in my css file. Google font were used Roboto.
 - CoralDraw was used to illustrate this page with the flow chart's logic.
-- This page was made with Visual Studio Code. Visual Studio Code was used from codeanywhere.com. Also the Git Hub repository has been cloned to the desktop of my computer by logging to the Git Hub repository, click on clone and download, paste the HTTP addres in the terminal. Then open the folder spock on my desktop with Visual Studio Code and start working adding, comitting and pushing the changes that have been made. In code terms I type git clone and then paste the url copied from the Git repository then the cloning begins by pressing enter. Then in the terminal I changed the current folder with cd "C:\Users\kamen\OneDrive\Desktop". The spock folder appears on my desktop and in there using Visual Studio Code start working on the project and saving it by git add . git commit and git push.
+- This page was made with Visual Studio Code. Visual Studio Code was used from codeanywhere.com. Also the Git Hub repository has been cloned to the desktop of my computer by logging to the Git Hub repository, click on clone and download, paste the HTTP addres in the terminal. Then open the folder spock on my desktop with Visual Studio Code and start working adding, comitting and pushing the changes that have been made. In code terms I type git clone and then paste the url copied from the Git repository then the cloning begins by pressing enter. Then in the terminal I changed the current folder with
+     cd "C:\Users\kamen\OneDrive\Desktop". The spock folder appears on my desktop and in there using Visual Studio Code start working on the project and saving it by
+     git add . git commit and git push.
  
 Flow chart to work out the logic path the program needs to take.
 
@@ -96,7 +98,8 @@ Given more time to invest in the project, I would like to implement some more fe
 
 - A count-up counter. On reaching a certain number, for example 10, one round will be won. The round counter will be added to count the won and lost rounds. Then all variables will be reset to 0 or blank.
   
-- Some basic animation to the pictures can be added to add some nice visual effects to the project. Perhaps an the picture can enlarge slightly for the winning player and decrease in size slightly for the losing computer and vice-versa. Or perhaps by adding some wings that will flap cheerefully when win and fall down sadly when lose.
+- Some basic animation to the pictures can be added to add some nice visual effects to the project. Perhaps the picture can enlarge slightly for the winning player and decrease in size slightly for the losing computer and vice-versa. Or perhaps by adding some wings that will flap cheerefully when win and fall down sadly when lose.
+- This project can target young children and children and people with Down's syndrom provided I change the melodies with such appropriate for children. A lot more melodies should be used and the streaming of music should go until the player decides to stop. The melodies should be chosen randomly or in order of their appearence.
 
  ---
  
@@ -127,9 +130,13 @@ I can confirm that the website passed with great scores. See report below:
 ---
 ## [Bugs and Issues](#bugs-and-issues)
 
-There is an issue with Iphone 13. The music block is not fully visible. vh for the .bth has to be declared at vh50 which will scale the buttons to 50%. This issue has not been resolved. There is another issue, there is scriool bar on the small portable devices. This is due to the table layout. If there is no table the issue is resolved.
+There is an issue with Iphone 13 and iPhone13. The music block is not fully visible. Probably vh for the .btn has to be declared at vh50 which will scale the buttons to 50%. This issue has not been resolved. There is another issue, there is scriool bar on the small portable devices. This is due to the table layout. If there is no table the issue is resolved.
 
-![The issue with iPhone 13!](assets/bug_phone.png "An issue.")
+![The issue with iPhone 12, 13!](assets/bug_phone.png "An issue.")
+
+However the programe performs very well on all the rest devices such as iPhone14, pixel7,Samsung Galaxy S8+, Samung Glaxy S20 Ultra.
+
+![Thereis no issue with all the rest phones and devices!](assets/iPhone 14.png "no issue.")
 
 ---
 
