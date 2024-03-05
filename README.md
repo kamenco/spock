@@ -78,10 +78,17 @@ Image for the music block.
 - This page was made with Visual Studio Code. Visual Studio Code was used from codeanywhere.com. Also the Git Hub repository has been cloned to the desktop of my computer by logging to the Git Hub repository, click on clone and download, paste the HTTP addres in the terminal. Then open the folder spock on my desktop with Visual Studio Code and start working adding, comitting and pushing the changes that have been made. In code terms I type git clone and then paste the url copied from the Git repository then the cloning begins by pressing enter. Then in the terminal I changed the current folder with
      cd "C:\Users\kamen\OneDrive\Desktop". The spock folder appears on my desktop and in there using Visual Studio Code start working on the project and saving it by
      git add . git commit and git push.
+  - The music section is realized with Java Script forEach function that iterates trough the array of songs, creates buttons with song's name in it. With  onclick event listener plays and stops the songs. A function startSong() is called from within the body of the forEach function.
  
 Flow chart to work out the logic path the program needs to take.
 
 ![The flow chart!](assets/play.png "The illustration")
+
+---
+
+This is the logic path of the music section.
+
+![The flow chart!](assets/scheme.png "The illustration")
 
 ---
 ## [Website Features](#website-features)
@@ -99,7 +106,7 @@ Given more time to invest in the project, I would like to implement some more fe
 - A count-up counter. On reaching a certain number, for example 10, one round will be won. The round counter will be added to count the won and lost rounds. Then all variables will be reset to 0 or blank.
   
 - Some basic animation to the pictures can be added to add some nice visual effects to the project. Perhaps the picture can enlarge slightly for the winning player and decrease in size slightly for the losing computer and vice-versa. Or perhaps by adding some wings that will flap cheerefully when win and fall down sadly when lose.
-- This project can target young children and children and people with Down's syndrom provided I change the melodies with such appropriate for children. A lot more melodies should be used and the streaming of music should go until the player decides to stop. The melodies should be chosen randomly or in order of their appearence.
+- This project can target young children and children and people with Down's syndrom provided I change the melodies with such appropriate for children. A lot more melodies should be used and the streaming of music should go until the player decides to stop. The melodies should be chosen randomly or in order of their appearence. For that definetely must dig deeper into "Java Script for Sound Artists" by William Tutner.
 
  ---
  
@@ -166,8 +173,8 @@ The music and singing is performed by the developer of this site. The favicons w
 
 The idea for the game was accepted from you tube and I have improved the code by adding two more items Spock and Lizard. The flow control was improved as to the terniary condition was added the OR operator.
 
-The idea for the music block was taken from the book "Java Script
-for Sound Artists" by William Tutner.
+The idea for the music block was taken from you tube channel Web Dev Made Easy https://youtu.be/E-v4SSCG6i4
+and also from the book "Java Script for Sound Artists" by William Tutner.
 
 This side is used with the help of Codeacademy's course Essential JavaScript and the help of the tutors and facilitators, and mentors. Thanks to facilitator Laura for sending me useful links for React, thanks to Mr. Medale and Marco for the technical support.
 
