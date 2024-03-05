@@ -136,7 +136,7 @@ There is an issue with Iphone 13 and iPhone13. The music block is not fully visi
 
 However the programe performs very well on all the rest devices such as iPhone14, pixel7,Samsung Galaxy S8+, Samung Glaxy S20 Ultra.
 
-![Thereis no issue with all the rest phones and devices!](assets/iphone.png "No issue.")
+![Thereis no issue with all the rest phones and devices!](assets/iphone.png.png "No issue.")
 
 ---
 
